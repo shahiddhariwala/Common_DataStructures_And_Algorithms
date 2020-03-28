@@ -1,0 +1,208 @@
+1
+2
+shahid1
+2
+shahid2
+2
+shahid3
+2
+dhariwala
+2
+dhari
+2
+rocksshahid
+2
+shahidrocks
+2
+hahid12
+
+Word hahid12 Inserted sucesfully
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Print Trie
+6. Delete Trie
+7. Exit
+5
+rocksshahid
+shahid1
+shahid2
+shahidrocks
+shahid3
+dhari
+dhariwala
+hahid12
+
+
+========
+
+1
+2
+air
+2
+airer
+2
+aire
+2
+bcde
+2
+bc
+2
+bcdf
+
+
+=====
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+1
+Trie Created Succesfully
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+2
+Enter a word to be inserted
+airer
+Word airer Inserted sucesfully
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+2
+Enter a word to be inserted
+aire
+Word aire Inserted sucesfully
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+2
+Enter a word to be inserted
+air
+Word air Inserted sucesfully
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+air
+Word Found :: air
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+aire
+Word Found :: aire
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+airer
+Word Found :: airer
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+4
+Enter a word to be deleted
+aire
+Entering case 4
+Entering case 4
+Entering case 3
+Entering case 2
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+4
+Enter a word to be deleted
+air
+Entering case 4
+Entering case 4
+Entering case 2
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+airer
+Word Found :: airer
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+air
+Word air not found
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
+3
+Enter a word to search?
+airer
+Word Found :: airer
+
+===============Trie===============
+1. Create Trie
+2. Insert a Word
+3. Search a Word
+4. Delete a Word
+5. Delete Trie
+6. Exit
