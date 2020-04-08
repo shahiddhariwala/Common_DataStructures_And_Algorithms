@@ -1,5 +1,9 @@
 package binaryTree;
-
+/*
+Code by  : Shahid Dhariwala
+LinkedIn : https://www.linkedin.com/in/shahiddhariwala/
+Twitter  : https://twitter.com/shahiddhariwala
+*/
 import java.util.*;
 
 //I am considering here height of null node to be 0 not -1;

@@ -1,3 +1,8 @@
+/*
+Code by  : Shahid Dhariwala
+LinkedIn : https://www.linkedin.com/in/shahiddhariwala/
+Twitter  : https://twitter.com/shahiddhariwala
+*/
 package dynamicProgramming;
 
 public class DP_Convert_One_String_To_Another

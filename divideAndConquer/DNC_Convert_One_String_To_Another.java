@@ -1,3 +1,8 @@
+/*
+Code by  : Shahid Dhariwala
+LinkedIn : https://www.linkedin.com/in/shahiddhariwala/
+Twitter  : https://twitter.com/shahiddhariwala
+*/
 package divideAndConquer;
 
 public class DNC_Convert_One_String_To_Another

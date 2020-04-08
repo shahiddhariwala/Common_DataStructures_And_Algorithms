@@ -1,3 +1,8 @@
+/*
+Code by  : Shahid Dhariwala
+LinkedIn : https://www.linkedin.com/in/shahiddhariwala/
+Twitter  : https://twitter.com/shahiddhariwala
+*/
 package graphAndAlgos;
 import java.util.*;
 
@@ -138,8 +143,8 @@ public class RandomTest {
 			
 			for (WeightedNode neighbor : presentNode.getNeighbors()) {
 				if (queue.contains(neighbor)) {//If vertex is not processed, only then enter in if-else 
-					//If known weight of this ‘adjacent vertex’ is more than current edge, 
-					//then update ‘adjacent vertex’s’ distance and parent
+					//If known weight of this ï¿½adjacent vertexï¿½ is more than current edge, 
+					//then update ï¿½adjacent vertexï¿½sï¿½ distance and parent
 					if (neighbor.getDistance() > presentNode.getWeightMap().get(neighbor)) {
 						neighbor.setDistance(presentNode.getWeightMap().get(neighbor));
 						neighbor.setParent(presentNode);
