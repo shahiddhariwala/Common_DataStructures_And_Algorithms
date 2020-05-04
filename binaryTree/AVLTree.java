@@ -29,7 +29,7 @@ public class AVLTree
 		{
 			this.data = val;
 			this.height = 1;
-			// since this will, be leaf node its height is 0
+			// since this will, be leaf node its height is 1
 		}
 	}
 	// searching some value
